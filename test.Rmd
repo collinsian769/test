@@ -1,0 +1,15 @@
+---
+title: "test"
+output: html_document
+date: "2025-10-21"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## much code very wow
+
+```{r}
+print("Hello world!")
+```
